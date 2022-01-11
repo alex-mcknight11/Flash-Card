@@ -1,0 +1,12 @@
+div = title
+div = paragraph 
+
+<div class="javascript-title">
+
+<div class="javascript-def">
+
+
+(".javascript-title").toggle()
+(".javascript-def").toggle()
+
+
